@@ -11,7 +11,7 @@
 ###############################################################################
 # Change this to your timezone
 ###############################################################################
-timedatectl set-timezone America/Los_Angeles
+timedatectl set-timezone America/New_York
 
 ###############################################################################
 # Import any public keys that we need and initalize
